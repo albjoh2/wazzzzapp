@@ -1,3 +1,5 @@
+## This project is made by following the tutorial: "Build and Deploy a Full Stack Realtime Chat Messaging App with NextJS 13" - https://www.youtube.com/watch?v=NlXfg5Pxxh8 for learning purposes.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

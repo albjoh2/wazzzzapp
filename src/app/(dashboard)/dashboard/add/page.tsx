@@ -1,4 +1,5 @@
 import { FC } from "react";
+import AddFrientButton from "@/components/AddFriendButton";
 
 interface pageProps {}
 
